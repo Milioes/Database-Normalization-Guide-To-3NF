@@ -1,4 +1,4 @@
-# Database-Normalization-Guide-To-3NF
+# 💻🗄️ Database-Normalization-Guide-To-3NF
 
 This project provides a step-by-step instructional guide for transforming an unstructured dataset into a relational database structure through First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF). Using Microsoft Excel and a sample crime dataset, readers learn how to identify dependencies, create primary and foreign key relationships, and organize data into efficient, normalized tables.
 
