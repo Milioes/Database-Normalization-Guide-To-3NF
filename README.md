@@ -19,5 +19,7 @@ Skills Demonstrated
 ## Author
 
 Emilio Sanchez San Martin
+
 Information Science & Business Analytics Student
+
 University of Maryland, College Park
