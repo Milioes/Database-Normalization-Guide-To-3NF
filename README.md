@@ -17,6 +17,7 @@ Developed at the University of Maryland, College Park, this project combines pri
 ## Files
 
 - PDF Guide
+- Sample Data (For Instructions)
 
 ## Author
 
