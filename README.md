@@ -4,7 +4,7 @@ This project provides a step-by-step instructional guide for transforming an uns
 
 Developed at the University of Maryland, College Park, this project combines principles of database design and technical communication to help beginner students understand a foundational concept in data management and relational database systems.
 
-Skills Demonstrated
+## Skills Demonstrated
 
 * Database Design
 * Data Modeling
