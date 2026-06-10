@@ -18,6 +18,7 @@ Developed at the University of Maryland, College Park, this project combines pri
 
 - PDF Guide
 - Sample Data (For Instructions)
+- Final Result Third Normal Form Image
 
 ## Author
 
